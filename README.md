@@ -22,7 +22,3 @@
 
 ## 📊 GitHub 统计
 ![EverettField's GitHub stats](https://github-readme-stats.vercel.app/api?username=EverettField&show_icons=true&theme=radical)
-
-
-
-[![wakatime](https://wakatime.com/badge/user/...)](https://wakatime.com/@EverettField)
